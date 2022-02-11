@@ -1,0 +1,25 @@
+body{
+text-align: center;
+background-color: indigo;    
+}
+#Title{
+color: yellow;
+font-size:60px;   
+}
+#myCanvas{
+background-color: lightblue;
+border-color: darkorange;
+border-style: groove;
+border-width: 20px;    
+}
+.s{
+font-size: 35px;
+color:bisque;    
+}
+button{
+background-color: darkgreen;
+color: white;
+width:200px;
+height: 50px;
+font-size: 30px;
+}
